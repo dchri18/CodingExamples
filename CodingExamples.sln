@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{6F380512-D6B6-463F-992D-478C29404B53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPatterns", "{CC115E25-BBB9-475E-9AE6-257BF395FDE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Concepts", "Concepts", "{C37B54D9-3972-43C4-A551-B84DD1BD52AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DependencyInjection.Example", "Concepts\DependencyInjection.Example\DependencyInjection.Example.csproj", "{E80173E1-BD50-4F57-B1F2-CFB376BDF090}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Trees", "Trees", "{7DE9AD5A-4D0A-49A6-A71B-2CC8517D0D64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{D7D5648F-0283-4EC4-8EE6-72C3AFD016E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{FB2FAAAC-C8FA-473C-B862-206AC0990B84}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{9A2D82DF-1697-4279-81D8-94D57ECC76DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioural", "Behavioural", "{02CC5785-BB90-4055-9C08-8598EE6098B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E80173E1-BD50-4F57-B1F2-CFB376BDF090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E80173E1-BD50-4F57-B1F2-CFB376BDF090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E80173E1-BD50-4F57-B1F2-CFB376BDF090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E80173E1-BD50-4F57-B1F2-CFB376BDF090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E80173E1-BD50-4F57-B1F2-CFB376BDF090} = {C37B54D9-3972-43C4-A551-B84DD1BD52AF}
+		{7DE9AD5A-4D0A-49A6-A71B-2CC8517D0D64} = {6F380512-D6B6-463F-992D-478C29404B53}
+		{D7D5648F-0283-4EC4-8EE6-72C3AFD016E8} = {6F380512-D6B6-463F-992D-478C29404B53}
+		{FB2FAAAC-C8FA-473C-B862-206AC0990B84} = {CC115E25-BBB9-475E-9AE6-257BF395FDE8}
+		{9A2D82DF-1697-4279-81D8-94D57ECC76DD} = {CC115E25-BBB9-475E-9AE6-257BF395FDE8}
+		{02CC5785-BB90-4055-9C08-8598EE6098B4} = {CC115E25-BBB9-475E-9AE6-257BF395FDE8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7966F71E-5C87-44EF-B474-6CC28AC34096}
+	EndGlobalSection
+EndGlobal
