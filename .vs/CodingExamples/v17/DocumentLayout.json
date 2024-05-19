@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\src\\CodingExamples\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C621ABF-74C0-410E-A6CE-077A735E3206}|DesignPatterns\\Creational\\Prototype.Example\\Prototype.Example.csproj|c:\\src\\codingexamples\\designpatterns\\creational\\prototype.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C621ABF-74C0-410E-A6CE-077A735E3206}|DesignPatterns\\Creational\\Prototype.Example\\Prototype.Example.csproj|solutionrelative:designpatterns\\creational\\prototype.example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C621ABF-74C0-410E-A6CE-077A735E3206}|DesignPatterns\\Creational\\Prototype.Example\\Prototype.Example.csproj|c:\\src\\codingexamples\\designpatterns\\creational\\prototype.example\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C621ABF-74C0-410E-A6CE-077A735E3206}|DesignPatterns\\Creational\\Prototype.Example\\Prototype.Example.csproj|solutionrelative:designpatterns\\creational\\prototype.example\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C621ABF-74C0-410E-A6CE-077A735E3206}|DesignPatterns\\Creational\\Prototype.Example\\Prototype.Example.csproj|c:\\src\\codingexamples\\designpatterns\\creational\\prototype.example\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C621ABF-74C0-410E-A6CE-077A735E3206}|DesignPatterns\\Creational\\Prototype.Example\\Prototype.Example.csproj|solutionrelative:designpatterns\\creational\\prototype.example\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\src\\CodingExamples\\DesignPatterns\\Creational\\Prototype.Example\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Creational\\Prototype.Example\\Program.cs",
+              "ToolTip": "C:\\src\\CodingExamples\\DesignPatterns\\Creational\\Prototype.Example\\Program.cs",
+              "RelativeToolTip": "DesignPatterns\\Creational\\Prototype.Example\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:07:21.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\src\\CodingExamples\\DesignPatterns\\Creational\\Prototype.Example\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Creational\\Prototype.Example\\EmployeeManager.cs",
+              "ToolTip": "C:\\src\\CodingExamples\\DesignPatterns\\Creational\\Prototype.Example\\EmployeeManager.cs",
+              "RelativeToolTip": "DesignPatterns\\Creational\\Prototype.Example\\EmployeeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:06:09.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\src\\CodingExamples\\DesignPatterns\\Creational\\Prototype.Example\\Employee.cs",
+              "RelativeDocumentMoniker": "DesignPatterns\\Creational\\Prototype.Example\\Employee.cs",
+              "ToolTip": "C:\\src\\CodingExamples\\DesignPatterns\\Creational\\Prototype.Example\\Employee.cs",
+              "RelativeToolTip": "DesignPatterns\\Creational\\Prototype.Example\\Employee.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:05:23.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
