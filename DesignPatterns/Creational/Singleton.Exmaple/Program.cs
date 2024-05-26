@@ -20,7 +20,7 @@
             Console.WriteLine("Acquired instance first time");
           
             singletonOne.TestValue = 5;
-            Console.WriteLine("Set test value of 5 to firstly acquired instance");
+            Console.WriteLine($"Set test value of {singletonOne.TestValue} to firstly acquired instance");
 
             var singletonTwo = SingletonClass.Instance;
             Console.WriteLine("Acquired instance second time");

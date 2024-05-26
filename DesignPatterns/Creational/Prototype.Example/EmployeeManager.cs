@@ -2,7 +2,7 @@
 {
     public static class EmployeeManager
     {
-        private static Dictionary<string, Employee> _prototypes = new Dictionary<string, Employee>();
+        private static Dictionary<string, IEmployeePrototype> _prototypes = new Dictionary<string, IEmployeePrototype>();
 
         public static void AddPrototype(Employee employee)
         {
